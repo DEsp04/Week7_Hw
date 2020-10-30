@@ -1,5 +1,5 @@
 class SideBar { 
-  loadSideBard() { 
+  loadSideBar() { 
     console.log('Sidebar component is loaded')
   }
 }
